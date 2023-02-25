@@ -26,22 +26,22 @@ Tools used in this project
 ## Steps
 We will first build a model using sklearn using wine quality dataset from kaggle.com
 
-*Step#1: Import the required libraries
-*Step#2: Load the data
-*Step#3: Understand the data
-*Step#4: Data Cleaning
+* Step#1: Import the required libraries
+* Step#2: Load the data
+* Step#3: Understand the data
+* Step#4: Data Cleaning
         - Check for na values
         - Verify unique values of each column
         - Make sure values are correct
         - Feature Engineering
         - Outlier Detection using Distribution and boxplot
         - Outlier removal using Inter quartile range
-*Step#5: Correlation between columns
-*Step#6: Train & Test Split
-*Step#7: Build Machine Learning Models
-*Step#8: Testing the model
-*Step#9: ROC and AUC Curve
-*Step#10: Building Predictive System
+* Step#5: Correlation between columns
+* Step#6: Train & Test Split
+* Step#7: Build Machine Learning Models
+* Step#8: Testing the model
+* Step#9: ROC and AUC Curve
+* Step#10: Building Predictive System
 
 ## Dataset Reference 
 Wine Data
