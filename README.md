@@ -1,6 +1,6 @@
 # Wine_Quality_Prediction
 ## Introduction
-Develop classification model to predict the Quality of the wine. We are going to use the dataset from kaggle.com. we are use four type of machine learning model with 93.43% accuracy score. Random forest classifier perform very well.
+Develop classification model to predict the Quality of the wine. We are going to use the dataset from kaggle.com. we are use four type of machine learning algorithm (KNN Classifier, Decision Tree Classifier, Random Forest Classifier, SVM Classifier ). Random forest classifier is a best model its accuracy score is 93.43%.
 
 Data science concepts used in this project-
 
